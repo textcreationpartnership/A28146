@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bill of indictment exhibited against John Giles, on Wednesday the 14th instant, for his barbarous attempt upon the body of Justice Arnold together with the sentence he received ...</title>
+            <author>Giles, John, of Usk.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28146</idno>
+            <idno type="STC">Wing B2894</idno>
+            <idno type="STC">ESTC R1195</idno>
+            <idno type="EEBO-CITATION">11781122</idno>
+            <idno type="OCLC">ocm 11781122</idno>
+            <idno type="VID">49062</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49062)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 808:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bill of indictment exhibited against John Giles, on Wednesday the 14th instant, for his barbarous attempt upon the body of Justice Arnold together with the sentence he received ...</title>
+                  <author>Giles, John, of Usk.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Giles, John, --  of Usk.</term>
+               <term>Arnold, John, --  Justice.</term>
+               <term>Trials (Assault and battery) --  Great Britain --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:49062:1"/>
+            <head>THE Bill of Indictment Exhibited againſt JOHN GILES, On Wedneſday the 14th inſtant, For his Barbarous ATTEMPT upon the Body Of Juſtice <hi>ARNOLD;</hi> For which he was then Tryed, and found Guilty.</head>
+            <head type="sub">Together with The Sentence he received on Saturday laſt, being the 17th inſtant.</head>
+            <p>As alſo what happened concerning Mr. <hi>HERBERT,</hi> in reference to the ſaid Juſtice <hi>ARNOLD.</hi>
+            </p>
+            <p>MR. <hi>John Giles</hi> being ſuſpected for having been one of thoſe that made the late Barbarous and Inhumane Attempt up<g ref="char:EOLhyphen"/>on the perſon of <hi>John Arnold</hi>
+               <abbr>Eſq</abbr> one of His Majeſties Juſtices of the Peace for the County of <hi>Monmouth</hi> laſt <hi>April,</hi> in <hi>Jackanapes-lane</hi> neer <hi>Temple<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bar;</hi> after the indefatigable care of <hi>Edmund Warcup</hi>
+               <abbr>Eſq</abbr> to little effect here in Town, by the farther diligence of the Juſtices of the Peace in the Country, (the Juſtice of Heaven ſtill purſuing the Malefactor) was upon ſeveral Informa<g ref="char:EOLhyphen"/>tions, and ſtrong preſumptions, at length apprehended in <hi>Mon<g ref="char:EOLhyphen"/>mouthſhire:</hi> upon his Apprehenſion Mr. <hi>Arnold,</hi> very ill and weak of the Wounds and Bruiſes he had received, took a Journey from his Houſe to ſee and ſpeak with the ſaid <hi>John Giles,</hi> whom he had no ſooner ſeen and heard ſpeak, but he poſitively upon Oath charg'd him to be guilty of the Crime, of which he was before onely ſuſpected.</p>
+            <p>Thereupon he the ſaid <hi>John Giles</hi> was brought up to <hi>London</hi> to be Tryed for the Fact; in order to which, he was brought to the Bar at the Seſſions-houſe in the <hi>Old-Bailey,</hi> upon Wedneſday the 14th of this inſtant <hi>July,</hi> 1680, where the Jury being Sworn by the Names of</p>
+            <list>
+               <item>
+                  <hi>Chriſtopher Plucknet,</hi>
+               </item>
+               <item>
+                  <hi>William Dod,</hi>
+               </item>
+               <item>
+                  <hi>Anthony Nurſe,</hi>
+               </item>
+               <item>
+                  <hi>John Burton,</hi>
+               </item>
+               <item>
+                  <hi>Nathan Goodwin,</hi>
+               </item>
+               <item>
+                  <hi>George Wood,</hi>
+               </item>
+               <item>
+                  <hi>James Partridge,</hi>
+               </item>
+               <item>
+                  <hi>Lawrence Wood,</hi>
+               </item>
+               <item>
+                  <hi>John Bradſhaw,</hi>
+               </item>
+               <item>
+                  <hi>William Withers,</hi>
+               </item>
+               <item>
+                  <hi>Edward Probie,</hi>
+               </item>
+               <item>
+                  <hi>Richard Bromfield.</hi>
+               </item>
+            </list>
+            <pb n="2" facs="tcp:49062:2"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="indictment">
+                        <head>The Indictment.</head>
+                        <p>THe Jurors for our Lord the King, upon their Oaths do pre<g ref="char:EOLhyphen"/>ſent, That <hi>John Giles</hi> late of the Pariſh of St. <hi>Dunſtans</hi> in the Weſt, in the County of <hi>Middleſex</hi> Gent. not having God before his eyes, but being moved and ſeduced by the inſtigation of the Devil, contriving, and maliciouſly by a moſt wicked Con<g ref="char:EOLhyphen"/>ſpiracy, with divers other Malefactors to the Jurors unknown, forethought and had, intending one <hi>John Arnold</hi>
+                           <abbr>Eſq</abbr> a faithful Subject to the King, and oné of the Juſtices of the Peace for the County of <hi>Monmouth,</hi> inhumanely to Maime, Wound, Kill, and Murder, the 15th of <hi>April,</hi> in the Thirty ſecond year of the Reign of our Sovereign Lord <hi>Charles</hi> the Second, by the grace of God King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi> with the ſaid Malefactors unknown, at the Pariſh of St. <hi>Dunſtans</hi> in the Weſt aforeſaid, in the County of <hi>Middleſex</hi> aforeſaid, in and upon him the ſaid <hi>John Arnold,</hi> then and there being in the peace of God and the King, voluntarily, and of his malice forethought, with force and Arms, that is to ſay, with Swords, Staves, and Knives, of deſign, and by lying in wait, did make an Aſſault, and him the ſaid <hi>John Arnold</hi> did then and there Beat, Wound, Maim, and evilly intreat, and the Throat and Face of him the ſaid <hi>John Arnold</hi> did grievouſly cut with a certain Knife, alſo divers almoſt Mortal Wounds then and there to the ſaid <hi>John Arnold,</hi> that is to ſay, one Wound of the depth of ſeven Inches in his Body, between his Belly and his left Pap, two Wounds upon his Breaſt, and two Wounds in his Left Arm, with certain Swords then and there did give and impoſe, ſo that 'twas deſpair'd of the ſaid <hi>John Arnolds</hi> Life; and other enormi<g ref="char:EOLhyphen"/>ties then and there unto him did bring, to the great damage of the ſaid <hi>John Arnold,</hi> and againſt the Peace of our ſaid Lord the King, his Crown and Dignity.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After a full hearing of the Evidence on both ſides, the Jury withdrew, and having debated together about half an hour, return<g ref="char:EOLhyphen"/>ed, and brought the Priſoner in Guilty. Which done, the Court Adjourned till the Saturday following, the 17th of <hi>July;</hi> at which time the Court being ſate, <hi>John Giles</hi> was brought to the Bar, to whom the Right Worſhipful Sir <hi>George Jefferies,</hi> the Worthy Re<g ref="char:EOLhyphen"/>corder of the City of <hi>London,</hi> delivered himſelf to this effect.</p>
+            <pb n="3" facs="tcp:49062:2"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="sentence">
+                        <head>The RECORDERS Speech to <hi>John Giles.</hi>
+                        </head>
+                        <p>
+                           <hi>YOu the Priſoner at the Bar, you have been Indicted for a very vile Offence, an Offence in its nature that deſerves a greater Puniſhment than the Law does inflict upon any ſuch Offences; There is a Jury has convicted you of this Crime, againſt whom, had you any Objection, you might have made your Challenge. And now you ſtand Convicted here: It is only the Duty of the Court to pronounce that Judgment againſt you, which they think may be reaſonable to inflict upon ſuch an Offender. And I muſt needs ſay, it was one of the baſeſt and barbarous Actions, that Mankinde could poſſibly be guilty of; and it was an action of ſo much filth and baſeneſs, that the Law could not foreſee any man would be guilty of; and there<g ref="char:EOLhyphen"/>fore hath not made proviſion for a Puniſhment proportionable to it. But inaſmuch as we underſtand</hi> [by Mr. <hi>Arnold</hi>'s motion to the Right Honourable the Lord Major] <hi>you have a charge of Children, therefore the Court takes ſome conſideration: not that they think to extend any Mercy to you for your own ſake, But Clemency they they think they are bound to have for thoſe that have not offended; but with regard too (as they ought to have a care) that things of this nature be not only intended as a Puniſhment to the Offendor, but as a means to terrifie all other people from being guilty of ſuch extraordinary Villanies. And becauſe they will have a regard to your poſterity, therefore they do not think fit to put ſo great a Fine upon you as this Fault does deſerve: But on the other ſide, they have thought fit you ſhould be made an Example, and that your own Corpſe ſhould have as great a Puniſhment as the Law will allow. And therefore in the name of the Court I do pronounce this to be your Sentence.</hi>
+                        </p>
+                        <p>
+                           <hi>The Court does think fit that you be put upon the Pillory, towards</hi> Lincolns-Inne fields, <hi>as near to the place where this barbarous Fact was committed as may be; and there you are to ſtand from the Hour of Twelve till One, one day, at Noon-day: And at another day, from the hour of Twelve till One, over againſt</hi> Grays Inne <hi>in</hi> Hol<g ref="char:EOLhyphen"/>borne: <hi>And another day, between the ſame Hours, juſt by the</hi> May-pole <hi>in the</hi> Strand. <hi>Theſe three ſeveral days you are to ſtand upon the Pillory, and to have a Paper put upon your Hat, wherein ſhall be ſignified to all People that come by, the Offence of which you ſtand Convicted. And next, to deterre all others from com<g ref="char:EOLhyphen"/>mitting the like, the Court does think fit likewiſe to award, That you ſhould pay to the King the Sum of Five Hundred Pound; and that you be Committed, till ſuch time as you pay that Money. And becauſe it is to be both a Puniſhment to you, and a Determent to all others from committing ſuch Villanies as theſe are, you are to finde good Sureties for your good Behaviour during Life.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="4" facs="tcp:49062:3"/>
+            <p>Sentence being pronounc'd, and the Priſoner remov'd from the Bar, <hi>Rich. Cavenagh</hi> was brought to the Bar, and prayed to be Diſcharged; but was by Mr. <hi>Arnold</hi> charged with threatning of one <hi>Philip Staneright,</hi> one of the Kings Witneſſes: for which reaſon, and for that alſo a new Evidence was come in againſt the ſaid <hi>Cavenagh,</hi> with ſome farther charge relating to Mr. <hi>Arnold's</hi> buſineſs, the Court thought fit for want of Bail to continue him a Priſoner.</p>
+            <p>Then Mr. <hi>Herbert</hi> appeared, and prayed to be Diſcharged from his Recognizance to appear at the <hi>Old-Baily;</hi> but being accuſed by a Woman, for calling her Whore, Jade, and very ill Names, and holding up his Staff at her, and threatning to beat her, for being a Witneſs againſt his Friend <hi>Gyles;</hi> as alſo for taking away her Horſes, as ſhe was going to the Mill; and the reaſon was becauſe ſhe was to be a Witneſs at <hi>London</hi> againſt <hi>Gyles:</hi> But ſhe being a married Woman, and none appearing that would be bound to proſecute him for it, he was not bound over to anſwer it, till an<g ref="char:EOLhyphen"/>other Complaint came in againſt him. Which was immediately made by Mr. <hi>Ballard</hi> and another Gentleman; who charged Mr. <hi>Herbert,</hi> that in <hi>Whitſun</hi>-week laſt, upon a diſcourſe about choo<g ref="char:EOLhyphen"/>ſing Knights of the Shire for <hi>Monmouth,</hi> and the ſaying of one in the company, that 'twas thought Mr. <hi>Arnold</hi> would ſtand for it, Mr. <hi>Herbert</hi> ſhould make anſwer, <hi>I will circumcize the other ſide of his Cheek firſt;</hi> or, <hi>He muſt have the other ſide of his Cheek cir<g ref="char:EOLhyphen"/>cumcized firſt.</hi> Upon which the Court ordered he ſhould not be Diſcharg'd, but remain bound upon the former Recognizance, to appear there next Seſſions; and the Court gave him ſeveral ſharp Reprehenſions for his malicious and unmanly words and pro<g ref="char:EOLhyphen"/>ceedings. This being the ſecond of the King's Witneſſes, and a Woman that he had barbarouſly treated, ſtill paſſionately giving the reaſon, that they were Witneſſes againſt his Friend <hi>John Giles,</hi> as it was proved on Oath before the Court by ſeveral Witneſſes.</p>
+            <p>Then Sir <hi>Thomas Allen</hi> acquainted the Court, that a Gentleman had inform'd him the day before, that Mr. <hi>Herbert</hi> told him, that Mr. <hi>Arnold</hi> wounded himſelf, and cut his own Throat; which the Court lookt upon as an high Effect of a malicious Ingratitude: Mr. <hi>Arnold</hi> having beſought his Majeſty, when Mr. <hi>Herbert</hi> was in <hi>Newgate,</hi> to have his Releaſe. Mr. <hi>Arnold</hi> replied, that Mr. <hi>Her<g ref="char:EOLhyphen"/>bert</hi> had been more ungrateful to his Majeſty, who had graciouſly pardon'd him greater Offences; and lately, for he had ſpoken worſe of his Majeſties Perſon and Government than he had done of him, as it had been proved before his Majeſty, and of which he be<g ref="char:EOLhyphen"/>lieved his Majeſty was well ſatisfied. The Court told Mr. <hi>Her<g ref="char:EOLhyphen"/>bert,</hi> he was a ſhame to all Engliſh men, and bound him by Re<g ref="char:EOLhyphen"/>cognizance to appear and anſwer this Offence at the <hi>Kingsbench-Bar,</hi> the firſt Day of the next Term.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
